@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="error_invalid_username">Please enter valid username.</string>
+    <string name="error_field_required">error field</string>
+    <string name="error_invalid_password">Please enter valid password.</string>
+
+</resources>
